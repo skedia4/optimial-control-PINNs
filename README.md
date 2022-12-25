@@ -8,13 +8,13 @@ Please follow individiual Jupyter notebooks to understand the code (eg. [differe
 
 
 ### Results (Differential Drive)
-<p align='center'>
-<img width="100%" src="/figures/DD_1.gif"/>
+<p align='left'>
+<img width="50%" src="/figures/DD_1.gif"/>
 </p>
 </p>
 
 <p align='center'>
-<img width="800" src="/figures/DD_2.gif"/>
+<img width="400" src="/figures/DD_2.gif"/>
 </p>
 
 
