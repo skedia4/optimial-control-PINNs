@@ -10,11 +10,8 @@ Please follow individiual Jupyter notebooks to understand the code (eg. [differe
 
 ### Results (Differential Drive)
 <p align='center'>
-<img width="100%" src="/figures/Animation/trajec_1.gif"/>
-</p>
-
-<p align='center'>
-<img width="100%" src="/figures/trajec_3_round_at_x_1_500hz.npy.gif"/>
+<img width="25%" src="/figures/DD_1.gif"/>
+<img width="25" src="/figures/DD_2.gif"/>
 </p>
 
 
