@@ -4,8 +4,7 @@
 <img width="100%" src="/figures/PIINS_optimal.png"/>
 </p>
 
-Please follow individiual Jupyter notebooks to understand the code (eg. [differential drive](/Non-linear Systems/Differential Drive/model_2/Differential_Drive_HJB_PINNs.ipynb))
-
+Please follow individiual Jupyter notebooks to understand the code (eg. [differential drive](Non-linear_Systems/Differential_Drive/model_2/Differential_Drive_HJB_PINNs.ipynb))
 
 
 ### Results (Differential Drive)
