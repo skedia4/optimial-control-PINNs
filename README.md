@@ -14,7 +14,7 @@ Please follow individiual Jupyter notebooks to understand the code (eg. [differe
 </p>
 
 <p align='center'>
-<img width="800" src="/figures/DD_2.gif"/>
+<img width="500" src="/figures/DD_2.gif"/>
 </p>
 
 
