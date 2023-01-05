@@ -9,12 +9,14 @@ Please follow individiual Jupyter notebooks to understand the code (eg. [differe
 
 ### Results (Differential Drive)
 <p align='center'>
-<img width="50%" src="/figures/DD_1.gif"/>
+<img width="50%" src="/figures/DD_1.gif"/ title="PINNs HJB trajectory">
 </p>
 </p>
 
+The below figure shows trjectory simulation of PINNs HJB with shooting method. The shooting method is direct optimization as non-linear program performed uisng IPOPT solver.
+
 <p align='center'>
-<img width="500" src="/figures/DD_2.gif"/>
+<img width="500" src="/figures/DD_2.gif"/ title="Comparison with shooting method">
 </p>
 
 
